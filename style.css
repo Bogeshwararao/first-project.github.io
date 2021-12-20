@@ -1,0 +1,81 @@
+.larger-logo{
+    width: 30%;
+  }
+  h1{
+    text-align: center;
+  }
+  .enter{
+    margin-left: 350px;
+  }
+  .button{
+    margin-left: 380px;
+  }
+  .first-logo{
+    border-radius: 80%;
+    width: 200px;
+    position: relative;
+    left: 150px;
+  }
+  .second-logo{
+    border-radius: 80%;
+    width: 100px;
+    position: relative;
+    right: -190px;
+  }
+  .third-logo{
+    width: 100px;
+    position: relative;
+    left: 190px;
+  }
+  .first-text{
+     text-align: center;
+     margin-left: 330px;
+     margin-top: -10%;
+  }
+  .second-text{
+     text-align: center;
+     margin-left: 330px;
+     margin-top: -10%;
+  }
+  .third-text{
+     text-align: center;
+     margin-left: 330px;
+     margin-top: -10%;
+  }
+  .yt{
+    margin-left: 180px;
+  }
+  .a{
+    width: 190px;
+     height: auto;
+     border: 2px solid black;
+    margin-top: 100px;
+  margin-bottom: 10%;
+    margin-left: 50px;
+  }
+  .b{
+    width: 190px;
+     height: auto;
+     border: 2px solid black;
+    margin-top: -330px;
+  margin-bottom: 10%;
+    margin-left: 350px;
+  }
+  .c{
+    width: 190px;
+     height: 250px;
+     border: 2px solid black;
+    margin-top: -330px;
+  margin-bottom: 10%;
+    margin-left: 650px;
+  }
+  .colour
+  {
+     color: #7510F7;
+     font-weight: 900;
+     border: 2px solid #7510F7;
+     padding : 10px 30px;
+  }
+  color:hover{
+    color: red;
+  }
